@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ctlClockLib", "ctlClockLib.csproj", "{F546C256-FAFE-4EFF-AF07-406579A9E388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{99041AA8-BD4A-4EAA-9155-932E5F36D490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F546C256-FAFE-4EFF-AF07-406579A9E388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F546C256-FAFE-4EFF-AF07-406579A9E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F546C256-FAFE-4EFF-AF07-406579A9E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F546C256-FAFE-4EFF-AF07-406579A9E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99041AA8-BD4A-4EAA-9155-932E5F36D490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99041AA8-BD4A-4EAA-9155-932E5F36D490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99041AA8-BD4A-4EAA-9155-932E5F36D490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99041AA8-BD4A-4EAA-9155-932E5F36D490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DB6B0C-E97B-4F9A-9B10-4B03DD520D87}
+	EndGlobalSection
+EndGlobal
